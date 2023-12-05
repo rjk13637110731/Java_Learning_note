@@ -7,6 +7,6 @@ public class Main{
         System.out.println(c1);
         System.out.println(c2);
         System.out.println(c3);
-        System.out.println(c4);
+        System.out.println(c4); // 当输出c4时候，会输出97表示的字符 => 编码的概念
     }
 }
